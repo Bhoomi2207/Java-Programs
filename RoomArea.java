@@ -1,4 +1,4 @@
-package JavaProgramsOfHBP;
+
 class Room
 {
 	float lenght, breadth;
