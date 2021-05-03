@@ -1,4 +1,4 @@
-package JavaProgramsOfHBP;
+
 import java.lang.Math;
 public class squareRoot
 {
